@@ -1,0 +1,3 @@
+Harmless review visibility fixture.
+This line receives an unsubmitted review comment.
+No production data or secrets.
